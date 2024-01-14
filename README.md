@@ -4,6 +4,19 @@
 
 The ATM System is a secure and sophisticated platform designed to enhance authentication and verification processes within the financial sector. It integrates advanced technologies, including photo print verification, to ensure reliable and trustworthy user identification.
 
+### Software Requirements Specification (SRS)
+
+Our SRS document serves as a guide for the development process, covering the following key aspects:
+
+- **System Overview:** An introduction to the ATM System and its role in the financial ecosystem.
+- **Functional Requirements:** Detailed descriptions of the system's functionalities, including user interactions and system responses.
+- **Non-Functional Requirements:** Performance, security, and usability considerations that define the system's characteristics.
+- **Use Cases:** Scenarios that describe how users interact with the system and achieve their goals.
+
+The SRS document acts as a roadmap for our development journey, ensuring that our ATM System meets the highest standards of functionality, security, and user experience.
+
+Feel free to explore the [SRS document]([SRS/SRS.pdf](https://docs.google.com/document/d/1REhPUTY3REhDIlN-QARpUjZYE9EjkLX-/edit?usp=sharing&ouid=108076421560717707245&rtpof=true&sd=true)) to gain deeper insights into the ATM System project
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
