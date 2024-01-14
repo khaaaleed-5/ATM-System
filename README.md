@@ -27,6 +27,27 @@ The ATM System is designed to be user-friendly for both customers and banking pr
 - Banking professionals can monitor and manage transactions, perform system maintenance, and generate reports.
 
 
+## Project Architecture
+
+The ATM System follows the Model-View-Controller (MVC) architecture, a design pattern that separates the application logic into three interconnected components: Model, View, and Controller.
+
+### Model
+
+The Model represents the data and business logic of the application. In the ATM System, the Model is responsible for managing user accounts, transactions, and the underlying database interactions. It encapsulates the core functionalities and ensures data integrity.
+
+### View
+
+The View is responsible for presenting the user interface and receiving user input. In our ATM System, the View component handles the graphical representation of the ATM interface seen by the users during transactions. It provides an intuitive and user-friendly experience.
+
+### Controller
+
+The Controller acts as an intermediary between the Model and View, handling user inputs, updating the Model, and refreshing the View accordingly. In the ATM System, the Controller interprets user actions, triggers the corresponding operations in the Model, and updates the View to reflect the changes.
+
+This separation of concerns enhances maintainability, scalability, and reusability of the codebase. The use of MVC architecture facilitates modularity and makes it easier to extend or modify individual components without affecting the entire system.
+
+By adopting the MVC pattern, we aim to create a well-organized and maintainable ATM System that promotes clean code practices and ease of development.
+
+
 ## How to Contribute
 
 We welcome contributions! If you'd like to contribute to the ATM System, please follow these steps:
