@@ -1,4 +1,5 @@
 # ATM System
+[![Status](https://img.shields.io/badge/Status-End-brightgreen)](https://github.com/your-username/task-management-system)
 
 ## Overview
 
