@@ -16,7 +16,7 @@ Our SRS document serves as a guide for the development process, covering the fol
 
 The SRS document acts as a roadmap for our development journey, ensuring that our ATM System meets the highest standards of functionality, security, and user experience.
 
-Feel free to explore the [SRS document](https://docs.google.com/document/d/1REhPUTY3REhDIlN-QARpUjZYE9EjkLX-/edit?usp=sharing&ouid=108076421560717707245&rtpof=true&sd=true)) to gain deeper insights into the ATM System project
+Feel free to explore the [SRS document](https://docs.google.com/document/d/1REhPUTY3REhDIlN-QARpUjZYE9EjkLX-/edit?usp=sharing&ouid=108076421560717707245&rtpof=true&sd=true) to gain deeper insights into the ATM System project
 
 ## Prerequisites
 
